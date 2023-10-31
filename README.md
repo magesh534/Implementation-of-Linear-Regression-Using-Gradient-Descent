@@ -8,10 +8,10 @@ To write a program to predict the profit of a city using the linear regression m
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. Upload the file to your compiler.
-2. Type the required program.
-3. Print the program.
-4.End the program. 
+1. Import the required library and read the dataframe.
+2. Write a function computeCost to generate the cost function.
+3. Perform iterations og gradient steps with learning rate
+4.Plot the Cost function using Gradient Descent and generate the required graph. 
 
 ## Program:
 ```
@@ -87,12 +87,19 @@ print("For population = 70,000 , we predict a profit of $"+str(round(predict2,0)
 ```
 
 ## Output:
+1.profit prediction
 ![ex 3 1](https://github.com/magesh534/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/135577936/b516bb5c-f151-429d-bf50-75dbdd9e734a)
+2.function output
 ![ex 3 2](https://github.com/magesh534/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/135577936/ce1dcc68-c409-4861-93e6-f229f561f04f)
+3.Gradient Descent
 ![ex 3 3](https://github.com/magesh534/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/135577936/6e93a706-8ec6-44dc-8b83-d0e863191ca2)
+4.Cost function using gradient descent
 ![ex 3 4](https://github.com/magesh534/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/135577936/1fda2603-8672-4fcf-a079-953fb5295842)
+5.Linear regression using profit prediction
 ![ex 3 5](https://github.com/magesh534/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/135577936/fdcf5fa4-096f-40ce-8d41-e056db1efe41)
+6.Profit prediction for a population of 35,000
 ![ex 3 6](https://github.com/magesh534/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/135577936/d55826b0-a39c-43c7-a491-fa08f39bb9a5)
+6.Profit prediction for a population of 35,000
 ![ex 3 7](https://github.com/magesh534/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/135577936/dbbae8c9-90ad-4d31-9ba3-23f59f1238a3)
 
 
