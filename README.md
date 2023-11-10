@@ -114,7 +114,7 @@ print("For population = 70,000 , we predict a profit of $"+str(round(predict2,0)
 ![ex 3 6](https://github.com/magesh534/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/135577936/d55826b0-a39c-43c7-a491-fa08f39bb9a5)
 
 
-6.Profit prediction for a population of 35,000
+7.Profit prediction for a population of 70,000
 ![ex 3 7](https://github.com/magesh534/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/135577936/dbbae8c9-90ad-4d31-9ba3-23f59f1238a3)
 
 
